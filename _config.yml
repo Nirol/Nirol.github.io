@@ -17,7 +17,7 @@
 email: "nir.gilad777@gmail.com"
 twitter_username: "NirGilad_"
 github_username: "Nirol"
-
+logo: "/assets/images/logo/bitcoinBig.png"
 
 search: false
 
@@ -28,7 +28,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nir Gilad123"
+title                    : "Nir Gilad"
 title_separator          : "|"
 name                     : "Nir Gilad"
 description              : "Software Developer & Data Scientist with experience in Bioinformatics  and CryptoCurrency" 
@@ -141,20 +141,9 @@ defaults:
       path: ""
       type: portfolio
     values:
-      layout: single
+      layout: portfolio
       author_profile: false
-      share: true
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: false
-      comments: true
-      share: true
-      related: true
+
   # _pages
   - scope:
       path: "_pages"
