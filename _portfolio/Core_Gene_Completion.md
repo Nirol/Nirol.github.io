@@ -3,7 +3,7 @@ layout: archive
 title: "Completing Missing Core Genes Alleles Using Machine Learning"
 excerpt: "Gathering, Filtering & Exploration of CGMLST gene data and building of couple Machine Learning Models"
 header:
-  teaser: assets/images/core_genes_completion/cgmlst_th3.PNG
+  teaser: assets/images/core_genes_completion/cgmlst_teas.png
 ---
 
 Researchers in the areas of medicine and computers have found certain methods to identify, for a given bacterium, a list of its core genes.
